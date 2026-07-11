@@ -1,8 +1,8 @@
 <div align="center">
 
-![Sahith Basani Header](https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,28:1E1B4B,58:312E81,82:2563EB,100:38BDF8&text=Sahith%20Basani&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20.NET%20Backend%20Engineering%20%7C%20Enterprise%20Systems&descAlignY=58&descSize=16&animation=twinkling)
+![Sahith Basani](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,30:1E1B4B,60:1D4ED8,100:38BDF8&text=Sahith%20Basani&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20.NET%20Backend%20Engineering%20%7C%20Open%20Source&descAlignY=56&descSize=17&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=900&color=93C5FD&center=true&vCenter=true&width=980&lines=Production-grade+.NET+backend+engineering;Enterprise+REST+APIs+and+cloud-native+systems;Open-source+.NET+ecosystem+contributions;C%23+%7C+.NET+%7C+ASP.NET+Core+%7C+SQL+Server+%7C+Azure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&pause=850&color=93C5FD&center=true&vCenter=true&width=980&lines=Building+secure+and+scalable+.NET+backend+systems;Contributing+to+open-source+software+used+by+developers;Publishing+reusable+engineering+knowledge;C%23+%7C+.NET+%7C+ASP.NET+Core+%7C+SQL+Server+%7C+Azure)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sahithbasani&style=for-the-badge&color=6366F1)
 ![Followers](https://img.shields.io/github/followers/Sahithbasani?style=for-the-badge&color=2563EB&label=Followers)
@@ -11,42 +11,81 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sahithbasani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahithbasani)
 [![Medium](https://img.shields.io/badge/Medium-Technical%20Writing-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sahithbasani1)
 [![GitHub](https://img.shields.io/badge/GitHub-Sahithbasani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahithbasani)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Source%20Repository-2563EB?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/Sahithbasani/portfolio-website)
+[![Email](https://img.shields.io/badge/Email-sahithbasani1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahithbasani1@gmail.com)
 
 </div>
-
-<br />
 
 <div align="center">
 
-![Engineering Console](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=450&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=960&height=96&lines=%3E+designing+backend+systems+with+clean+boundaries;%3E+modernizing+.NET+code+with+focused+pull+requests;%3E+documenting+production-ready+engineering+decisions;%3E+building+reusable+resources+for+the+Microsoft+stack)
+![Engineering Console](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=450&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=96&lines=%3E+engineering+focus:+reliable+backend+systems;%3E+public+evidence:+open-source+PRs+and+technical+repositories;%3E+knowledge+sharing:+.NET+articles+and+reusable+guides;%3E+direction:+secure,+cloud-ready,+maintainable+software)
 
-![Motion Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:312E81,50:2563EB,100:38BDF8)
+![Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:312E81,50:2563EB,100:38BDF8)
 
 </div>
 
-## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1000&color=93C5FD&repeat=false&width=260&lines=Engineering+Profile" alt="Engineering Profile" />
+## Public Interest Engineering Focus
 
 <table>
   <tr>
-    <td width="55%">
-      <strong>Senior Software Engineer</strong> focused on backend and enterprise application development with the Microsoft technology stack.
-      <br /><br />
-      My public engineering work centers on <strong>C#</strong>, <strong>.NET</strong>, <strong>ASP.NET Core</strong>, <strong>SQL Server</strong>, <strong>Azure</strong>, REST API design, clean architecture, practical technical writing, and open-source contribution.
-    </td>
-    <td width="45%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sahithbasani&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
-    </td>
+    <td width="34%"><strong>Proposed technical direction</strong></td>
+    <td>Advance reliable, secure, and maintainable backend systems using C#, .NET, ASP.NET Core, SQL Server, Azure, and open-source engineering practices.</td>
+  </tr>
+  <tr>
+    <td><strong>Why it matters</strong></td>
+    <td>Backend systems support public services, business platforms, developer tools, data access, authentication, API reliability, and cloud-based software delivery.</td>
+  </tr>
+  <tr>
+    <td><strong>Current proof of progress</strong></td>
+    <td>Merged open-source contribution to CommunityToolkit/Datasync, active contribution work in dotnet/runtime, public .NET learning repositories, and technical writing.</td>
+  </tr>
+  <tr>
+    <td><strong>Long-term contribution model</strong></td>
+    <td>Build reusable engineering resources, contribute focused fixes to important .NET ecosystem projects, and publish practical guidance for backend developers.</td>
   </tr>
 </table>
 
 <div align="center">
 
-[![Focus Motion](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=900&color=A5B4FC&center=true&vCenter=true&width=900&lines=REST+API+design+%2B+backend+architecture;SQL+Server+%2B+data-access+reliability;Azure-ready+services+%2B+operational+readiness;Open-source+modernization+%2B+technical+documentation)](https://git.io/typing-svg)
+[![Reviewer Summary](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=19&pause=1000&color=A5B4FC&center=true&vCenter=true&width=960&lines=Substantial+technical+merit:+backend+reliability+and+developer+infrastructure;Evidence+of+positioning:+public+repos,+merged+PR,+technical+writing;Public+benefit+path:+open-source+software+and+reusable+engineering+knowledge)](https://git.io/typing-svg)
 
 </div>
 
-## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1000&color=60A5FA&repeat=false&width=250&lines=Engineering+Stack" alt="Engineering Stack" />
+## Evidence Snapshot
+
+<table>
+  <tr>
+    <th>Evidence Area</th>
+    <th>Current Public Evidence</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>Open-source contribution</strong></td>
+    <td>Replaced obsolete .NET MAUI <code>DisplayAlert</code> usage with <code>DisplayAlertAsync</code> in CommunityToolkit/Datasync.</td>
+    <td><a href="https://github.com/CommunityToolkit/Datasync/pull/528">Merged PR #528</a></td>
+  </tr>
+  <tr>
+    <td><strong>.NET runtime contribution work</strong></td>
+    <td>Proposed filesystem test improvements for FAT32 temp-volume behavior in dotnet/runtime.</td>
+    <td><a href="https://github.com/dotnet/runtime/pull/130369">Open PR #130369</a></td>
+  </tr>
+  <tr>
+    <td><strong>Reusable .NET knowledge</strong></td>
+    <td>Maintains a backend engineering knowledge base covering ASP.NET Core, SQL Server, Azure, architecture, testing, Git, and interviews.</td>
+    <td><a href="https://github.com/Sahithbasani/dotnet-vault">dotnet-vault</a></td>
+  </tr>
+  <tr>
+    <td><strong>C# engineering education</strong></td>
+    <td>Builds production-oriented C# examples and learning modules for backend engineering fundamentals.</td>
+    <td><a href="https://github.com/Sahithbasani/csharp-fundamentals">csharp-fundamentals</a></td>
+  </tr>
+  <tr>
+    <td><strong>Technical writing</strong></td>
+    <td>Publishes practical software engineering articles, including .NET modernization and source-control migration topics.</td>
+    <td><a href="https://medium.com/@sahithbasani1">Medium</a></td>
+  </tr>
+</table>
+
+## Engineering Stack
 
 <div align="center">
 
@@ -87,7 +126,7 @@
 
 </div>
 
-## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1000&color=38BDF8&repeat=false&width=310&lines=Open+Source+Dashboard" alt="Open Source Dashboard" />
+## Open Source Contribution Record
 
 <table>
   <tr>
@@ -97,33 +136,33 @@
   </tr>
   <tr>
     <td><a href="https://github.com/CommunityToolkit/Datasync"><strong>CommunityToolkit/Datasync</strong></a></td>
-    <td>Replaced obsolete .NET MAUI <code>DisplayAlert</code> usage with <code>DisplayAlertAsync</code> in <code>AlertService</code>.</td>
-    <td><a href="https://github.com/CommunityToolkit/Datasync/pull/528">Merged PR #528</a></td>
+    <td>Modernized .NET MAUI alert API usage by replacing obsolete <code>DisplayAlert</code> with <code>DisplayAlertAsync</code>.</td>
+    <td><a href="https://github.com/CommunityToolkit/Datasync/pull/528">Merged</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/dotnet/runtime"><strong>dotnet/runtime</strong></a></td>
-    <td>Proposed filesystem test improvements for FAT32 temp-volume behavior.</td>
-    <td><a href="https://github.com/dotnet/runtime/pull/130369">Open PR #130369</a></td>
+    <td>Proposed filesystem test reliability improvements for FAT32 temp-volume behavior.</td>
+    <td><a href="https://github.com/dotnet/runtime/pull/130369">Open</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Sahithbasani/csharp-fundamentals"><strong>csharp-fundamentals</strong></a></td>
-    <td>Expanded C# learning material into production-oriented backend examples and validation workflows.</td>
-    <td><a href="https://github.com/Sahithbasani/csharp-fundamentals">Repository-owned work</a></td>
+    <td>Expanded C# learning material into production-oriented backend examples and verification workflows.</td>
+    <td>Public repository</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Sahithbasani/dotnet-vault"><strong>dotnet-vault</strong></a></td>
-    <td>Created a .NET backend engineering knowledge base covering ASP.NET Core, SQL Server, Azure, architecture, testing, Git, and interviews.</td>
-    <td><a href="https://github.com/Sahithbasani/dotnet-vault">Repository-owned work</a></td>
+    <td>Created a public .NET backend engineering knowledge base for reusable learning and reference.</td>
+    <td>Public repository</td>
   </tr>
 </table>
 
 <div align="center">
 
-[![Open Source Motion](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=17&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Focused+pull+requests+with+clear+validation;Modernization%2C+testing%2C+documentation%2C+and+backend+quality;Maintainer-friendly+changes+with+small+review+surface)](https://git.io/typing-svg)
+[![Open Source Motion](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=17&pause=1000&color=60A5FA&center=true&vCenter=true&width=930&lines=Focused+pull+requests+with+clear+validation;Modernization,+testing,+documentation,+and+backend+quality;Public+technical+work+that+can+grow+into+broader+software+impact)](https://git.io/typing-svg)
 
 </div>
 
-## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1000&color=A5B4FC&repeat=false&width=320&lines=Featured+Engineering+Work" alt="Featured Engineering Work" />
+## Featured Engineering Work
 
 <div align="center">
 
@@ -142,24 +181,40 @@
 
 </div>
 
-<details open>
-<summary><strong>Project Notes</strong></summary>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Engineering Value</th>
+    <th>Repository</th>
+  </tr>
+  <tr>
+    <td><strong>.NET Vault</strong></td>
+    <td>Reusable backend engineering reference for ASP.NET Core, SQL Server, Azure, architecture, testing, Git, and interviews.</td>
+    <td><a href="https://github.com/Sahithbasani/dotnet-vault">Open</a></td>
+  </tr>
+  <tr>
+    <td><strong>C# Fundamentals</strong></td>
+    <td>Production-oriented C# examples, backend scenarios, validation, and learning modules.</td>
+    <td><a href="https://github.com/Sahithbasani/csharp-fundamentals">Open</a></td>
+  </tr>
+  <tr>
+    <td><strong>Linux Engineering</strong></td>
+    <td>Linux operations, troubleshooting, security, and automation notes supporting production engineering.</td>
+    <td><a href="https://github.com/Sahithbasani/linux-engineering">Open</a></td>
+  </tr>
+  <tr>
+    <td><strong>Portfolio Website</strong></td>
+    <td>Source repository for a public engineering portfolio.</td>
+    <td><a href="https://github.com/Sahithbasani/portfolio-website">Open</a></td>
+  </tr>
+</table>
 
-| Project | Engineering focus | Repository |
-| --- | --- | --- |
-| **.NET Vault** | ASP.NET Core, SQL Server, Azure, architecture, testing, Git, and interview preparation. | [Open repository](https://github.com/Sahithbasani/dotnet-vault) |
-| **C# Fundamentals** | Production-oriented C# examples, backend scenarios, validation, and learning modules. | [Open repository](https://github.com/Sahithbasani/csharp-fundamentals) |
-| **Linux Engineering** | Linux operations, troubleshooting, security, and automation notes. | [Open repository](https://github.com/Sahithbasani/linux-engineering) |
-| **Portfolio Website** | Source repository for the public engineering portfolio. | [Open repository](https://github.com/Sahithbasani/portfolio-website) |
-
-</details>
-
-## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1000&color=93C5FD&repeat=false&width=260&lines=Technical+Writing" alt="Technical Writing" />
+## Technical Writing
 
 <table>
   <tr>
-    <td width="35%"><strong>Published focus</strong></td>
-    <td>.NET modernization, backend engineering, source-control migration, architecture, and software-delivery practices.</td>
+    <td width="32%"><strong>Published focus</strong></td>
+    <td>.NET modernization, backend engineering, source-control migration, architecture, and software delivery.</td>
   </tr>
   <tr>
     <td><strong>Featured article</strong></td>
@@ -171,36 +226,36 @@
   </tr>
 </table>
 
-## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1000&color=60A5FA&repeat=false&width=300&lines=Engineering+Direction" alt="Engineering Direction" />
+## Forward Plan
 
 <table>
   <tr>
     <td><strong>Open Source</strong></td>
-    <td>Focused .NET ecosystem contributions with small review surface and clear validation.</td>
+    <td>Continue focused .NET ecosystem contributions with small review surface, clear validation, and maintainer-friendly pull requests.</td>
   </tr>
   <tr>
-    <td><strong>System Design</strong></td>
-    <td>Backend architecture notes covering API boundaries, data flows, and failure modes.</td>
+    <td><strong>Backend Architecture</strong></td>
+    <td>Publish practical examples covering API boundaries, data flows, authentication, reliability, testing, and failure modes.</td>
   </tr>
   <tr>
-    <td><strong>Azure Architecture</strong></td>
-    <td>Azure-ready services, deployment notes, cloud design tradeoffs, and operational readiness.</td>
+    <td><strong>Azure Engineering</strong></td>
+    <td>Build Azure-ready service examples with deployment notes, configuration, observability, and cloud design tradeoffs.</td>
   </tr>
   <tr>
-    <td><strong>.NET Performance</strong></td>
-    <td>Runtime behavior, allocation awareness, async patterns, and diagnostics.</td>
+    <td><strong>Developer Education</strong></td>
+    <td>Expand public .NET and C# resources that help engineers understand production-grade backend development.</td>
   </tr>
 </table>
 
-## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1000&color=38BDF8&repeat=false&width=260&lines=GitHub+Analytics" alt="GitHub Analytics" />
+## GitHub Analytics
 
 <div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahithbasani&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sahithbasani&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahithbasani&layout=compact&hide_border=true&theme=tokyonight)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sahithbasani&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahithbasani&theme=tokyo-night&hide_border=true)
 
@@ -208,7 +263,7 @@
 
 </div>
 
-## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1000&color=A5B4FC&repeat=false&width=180&lines=Connect" alt="Connect" />
+## Connect
 
 <div align="center">
 
