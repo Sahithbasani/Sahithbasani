@@ -1,239 +1,200 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1026,35:312E81,70:2563EB,100:0EA5E9&text=Sahith%20Basani&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20.NET%20Backend%20Engineering%20%7C%20Enterprise%20Systems&descAlignY=58&descSize=16)
+![Sahith Basani Header](https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,28:1E1B4B,58:312E81,82:2563EB,100:38BDF8&text=Sahith%20Basani&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20.NET%20Backend%20Engineering%20%7C%20Enterprise%20Systems&descAlignY=58&descSize=16&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=93C5FD&center=true&vCenter=true&width=900&lines=Production-grade+.NET+backend+engineering;Enterprise+REST+APIs+and+cloud-native+systems;Open-source+contributions+and+technical+writing;C%23+%7C+.NET+%7C+ASP.NET+Core+%7C+SQL+Server+%7C+Azure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=900&color=93C5FD&center=true&vCenter=true&width=980&lines=Production-grade+.NET+backend+engineering;Enterprise+REST+APIs+and+cloud-native+systems;Open-source+.NET+ecosystem+contributions;C%23+%7C+.NET+%7C+ASP.NET+Core+%7C+SQL+Server+%7C+Azure)](https://git.io/typing-svg)
 
-Senior Software Engineer based in **Dallas, Texas, United States**.
+![Profile Views](https://komarev.com/ghpvc/?username=Sahithbasani&style=for-the-badge&color=6366F1)
+![Followers](https://img.shields.io/github/followers/Sahithbasani?style=for-the-badge&color=2563EB&label=Followers)
+![Public Repositories](https://img.shields.io/badge/Public%20Repos-11-0F172A?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sahithbasani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahithbasani)
 [![Medium](https://img.shields.io/badge/Medium-Technical%20Writing-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sahithbasani1)
 [![GitHub](https://img.shields.io/badge/GitHub-Sahithbasani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahithbasani)
-[![Portfolio Source](https://img.shields.io/badge/Portfolio-Repository-2563EB?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/Sahithbasani/portfolio-website)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Source%20Repository-2563EB?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/Sahithbasani/portfolio-website)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sahithbasani&style=flat-square&color=6366F1)
-![Followers](https://img.shields.io/github/followers/Sahithbasani?style=flat-square&color=2563EB&label=Followers)
-![Public Repos](https://img.shields.io/badge/Public%20Repos-11-0F172A?style=flat-square)
+</div>
 
 <br />
 
-[![Engineering Console](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=500&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=88&lines=%3E+designing+backend+systems+with+clear+boundaries;%3E+shipping+focused+open-source+pull+requests;%3E+documenting+production-grade+.NET+engineering;%3E+building+reusable+resources+for+the+Microsoft+stack)](https://git.io/typing-svg)
+<div align="center">
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:312E81,50:2563EB,100:0EA5E9)
+![Engineering Console](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=450&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=960&height=96&lines=%3E+designing+backend+systems+with+clean+boundaries;%3E+modernizing+.NET+code+with+focused+pull+requests;%3E+documenting+production-ready+engineering+decisions;%3E+building+reusable+resources+for+the+Microsoft+stack)
+
+![Motion Divider](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:312E81,50:2563EB,100:38BDF8)
 
 </div>
 
----
+## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1000&color=93C5FD&repeat=false&width=260&lines=Engineering+Profile" alt="Engineering Profile" />
 
-## Professional Summary
-
-I am a **Senior Software Engineer** focused on backend and enterprise application development with the Microsoft technology stack. My public engineering work centers on **C#**, **.NET**, **ASP.NET Core**, **SQL Server**, **Azure**, REST API design, clean architecture, production-oriented examples, and practical technical documentation.
-
-This GitHub profile is organized as a long-term engineering portfolio: open-source contributions, reusable .NET learning resources, backend architecture references, Linux engineering notes, and technical writing that connects language fundamentals to real production decisions.
-
-Current engineering themes:
-
-- Building maintainable REST APIs and distributed backend services.
-- Applying Clean Architecture, SOLID, CQRS, dependency inversion, and domain-oriented design.
-- Improving SQL Server data-access patterns and operational reliability.
-- Strengthening automated builds, CI checks, documentation quality, and validation workflows.
-- Contributing focused fixes and tests to open-source .NET ecosystem projects.
+<table>
+  <tr>
+    <td width="55%">
+      <strong>Senior Software Engineer</strong> focused on backend and enterprise application development with the Microsoft technology stack.
+      <br /><br />
+      My public engineering work centers on <strong>C#</strong>, <strong>.NET</strong>, <strong>ASP.NET Core</strong>, <strong>SQL Server</strong>, <strong>Azure</strong>, REST API design, clean architecture, practical technical writing, and open-source contribution.
+    </td>
+    <td width="45%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Sahithbasani&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
-[![Current Focus](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=900&color=A5B4FC&center=true&vCenter=true&width=850&lines=Clean+Architecture+%2B+REST+API+Design;SQL+Server+Performance+%2B+Data+Access;Azure-ready+Services+%2B+Operational+Readiness;Open-source+.NET+Ecosystem+Contributions)](https://git.io/typing-svg)
+[![Focus Motion](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=900&color=A5B4FC&center=true&vCenter=true&width=900&lines=REST+API+design+%2B+backend+architecture;SQL+Server+%2B+data-access+reliability;Azure-ready+services+%2B+operational+readiness;Open-source+modernization+%2B+technical+documentation)](https://git.io/typing-svg)
 
 </div>
 
----
-
-## Engineering Expertise
-
-| Area | Technologies and Practices |
-| --- | --- |
-| **Languages** | C#, SQL, Markdown, Bash/Linux shell |
-| **Backend** | .NET, ASP.NET Core, REST APIs, Entity Framework Core |
-| **Architecture** | Clean Architecture, SOLID, CQRS, dependency inversion, domain modeling, microservices concepts |
-| **Databases** | SQL Server, relational data modeling, query-performance awareness |
-| **Cloud** | Microsoft Azure, Azure-ready service design |
-| **DevOps** | Git, GitHub, GitHub Actions, Azure DevOps, CI/CD, Docker |
-| **Testing** | xUnit, build validation, smoke verification, regression-focused checks |
-| **Developer Tools** | Visual Studio, VS Code, .NET CLI, GitHub pull requests, Markdown documentation workflows |
+## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1000&color=60A5FA&repeat=false&width=250&lines=Engineering+Stack" alt="Engineering Stack" />
 
 <div align="center">
 
-![Expertise Divider](https://capsule-render.vercel.app/api?type=venom&height=80&color=0:0B1026,50:312E81,100:2563EB&section=header&text=Engineering%20Depth&fontColor=E0F2FE&fontSize=22&animation=fadeIn)
+![Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,githubactions,docker,git,visualstudio,vscode,linux,bash&theme=dark)
 
 </div>
 
----
-
-## Open Source Contributions
-
-Open-source work is a core part of this profile. I keep contributions focused: small surface area, clear validation, and maintainable changes that are easy for maintainers to review.
-
-| Repository | Contribution | Status | Link |
-| --- | --- | --- | --- |
-| **CommunityToolkit/Datasync** | Replaced obsolete `.NET MAUI` `DisplayAlert` usage with `DisplayAlertAsync` in `AlertService`; validated against the `Samples.TodoApp` solution. | **Merged** on 2026-07-10 | [PR #528](https://github.com/CommunityToolkit/Datasync/pull/528) |
-| **dotnet/runtime** | Proposed shared filesystem capability helpers and adjusted `System.IO.FileSystem` tests for FAT32 temp-volume behavior. | **Open** | [PR #130369](https://github.com/dotnet/runtime/pull/130369) |
-| **Sahithbasani/csharp-fundamentals** | Added CI-backed verification flow for executable C# examples and refreshed contributor documentation. | Open | [PR #6](https://github.com/Sahithbasani/csharp-fundamentals/pull/6) |
-| **Sahithbasani/csharp-fundamentals** | Expanded C# Fundamentals into a production-focused engineering knowledge base with modules, examples, and validation notes. | Repository-owned work | [Repository](https://github.com/Sahithbasani/csharp-fundamentals) |
-| **Sahithbasani/dotnet-vault** | Created a professional .NET backend engineering knowledge base covering ASP.NET Core, SQL Server, Azure, architecture, testing, Git, and interviews. | Repository-owned work | [Repository](https://github.com/Sahithbasani/dotnet-vault) |
-
-Contribution patterns visible across my public work:
-
-- API modernization and obsolete API cleanup.
-- Test and validation improvements.
-- Documentation systems for engineering learning.
-- CI and repository quality improvements.
-- Backend examples grounded in practical software design.
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>C#, SQL, Markdown, Bash/Linux shell</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>.NET, ASP.NET Core, REST APIs, Entity Framework Core</td>
+  </tr>
+  <tr>
+    <td><strong>Architecture</strong></td>
+    <td>Clean Architecture, SOLID, CQRS, dependency inversion, domain modeling</td>
+  </tr>
+  <tr>
+    <td><strong>Data</strong></td>
+    <td>SQL Server, relational design, query-performance awareness</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud and Delivery</strong></td>
+    <td>Azure, Azure DevOps, GitHub Actions, CI/CD, Docker</td>
+  </tr>
+  <tr>
+    <td><strong>Quality</strong></td>
+    <td>xUnit, build validation, smoke verification, documentation quality gates</td>
+  </tr>
+</table>
 
 <div align="center">
 
-[![Open Source Motion](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=17&pause=1000&color=60A5FA&center=true&vCenter=true&width=850&lines=Small+surface+area.+Clear+validation.+Maintainer-friendly+PRs.;Modernization%2C+testing%2C+documentation%2C+and+backend+quality.;CommunityToolkit%2FDatasync+PR+%23528+merged.;dotnet%2Fruntime+PR+%23130369+open.)](https://git.io/typing-svg)
+![Stack Divider](https://capsule-render.vercel.app/api?type=soft&height=90&color=0:020617,45:1E3A8A,100:312E81&text=.NET%20%7C%20Backend%20Architecture%20%7C%20Open%20Source&fontColor=FFFFFF&fontSize=22&animation=fadeIn)
 
 </div>
 
----
+## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1000&color=38BDF8&repeat=false&width=310&lines=Open+Source+Dashboard" alt="Open Source Dashboard" />
 
-## Featured Engineering Projects
+<table>
+  <tr>
+    <th>Repository</th>
+    <th>Contribution</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CommunityToolkit/Datasync"><strong>CommunityToolkit/Datasync</strong></a></td>
+    <td>Replaced obsolete .NET MAUI <code>DisplayAlert</code> usage with <code>DisplayAlertAsync</code> in <code>AlertService</code>.</td>
+    <td><a href="https://github.com/CommunityToolkit/Datasync/pull/528">Merged PR #528</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/dotnet/runtime"><strong>dotnet/runtime</strong></a></td>
+    <td>Proposed filesystem test improvements for FAT32 temp-volume behavior.</td>
+    <td><a href="https://github.com/dotnet/runtime/pull/130369">Open PR #130369</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Sahithbasani/csharp-fundamentals"><strong>csharp-fundamentals</strong></a></td>
+    <td>Expanded C# learning material into production-oriented backend examples and validation workflows.</td>
+    <td><a href="https://github.com/Sahithbasani/csharp-fundamentals">Repository-owned work</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Sahithbasani/dotnet-vault"><strong>dotnet-vault</strong></a></td>
+    <td>Created a .NET backend engineering knowledge base covering ASP.NET Core, SQL Server, Azure, architecture, testing, Git, and interviews.</td>
+    <td><a href="https://github.com/Sahithbasani/dotnet-vault">Repository-owned work</a></td>
+  </tr>
+</table>
+
+<div align="center">
+
+[![Open Source Motion](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=17&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Focused+pull+requests+with+clear+validation;Modernization%2C+testing%2C+documentation%2C+and+backend+quality;Maintainer-friendly+changes+with+small+review+surface)](https://git.io/typing-svg)
+
+</div>
+
+## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1000&color=A5B4FC&repeat=false&width=320&lines=Featured+Engineering+Work" alt="Featured Engineering Work" />
+
+<div align="center">
+
+<a href="https://github.com/Sahithbasani/dotnet-vault">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahithbasani&repo=dotnet-vault&theme=tokyonight&hide_border=true" alt="dotnet-vault repository card" />
+</a>
+<a href="https://github.com/Sahithbasani/csharp-fundamentals">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahithbasani&repo=csharp-fundamentals&theme=tokyonight&hide_border=true" alt="csharp-fundamentals repository card" />
+</a>
+<a href="https://github.com/Sahithbasani/linux-engineering">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahithbasani&repo=linux-engineering&theme=tokyonight&hide_border=true" alt="linux-engineering repository card" />
+</a>
+<a href="https://github.com/Sahithbasani/portfolio-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahithbasani&repo=portfolio-website&theme=tokyonight&hide_border=true" alt="portfolio-website repository card" />
+</a>
+
+</div>
 
 <details open>
-<summary><strong>C# Fundamentals</strong> - production-oriented C# learning repository</summary>
+<summary><strong>Project Notes</strong></summary>
 
-**Purpose:** A structured C# and .NET fundamentals reference for modern backend development.
-
-**Problem solved:** Moves beyond toy examples by connecting language fundamentals to backend scenarios, production notes, common mistakes, and interview preparation.
-
-**Architecture and technology:** C#, .NET, modular Markdown documentation, runnable console examples, validation-focused workflow.
-
-**Engineering highlights:**
-
-- Production-oriented examples for order processing, payment decisions, notifications, and backend control flow.
-- Documentation modules covering theory, best practices, common mistakes, interview questions, and production notes.
-- CI-oriented repository polish and verification workflow work in progress.
-
-**Repository:** [Sahithbasani/csharp-fundamentals](https://github.com/Sahithbasani/csharp-fundamentals)
+| Project | Engineering focus | Repository |
+| --- | --- | --- |
+| **.NET Vault** | ASP.NET Core, SQL Server, Azure, architecture, testing, Git, and interview preparation. | [Open repository](https://github.com/Sahithbasani/dotnet-vault) |
+| **C# Fundamentals** | Production-oriented C# examples, backend scenarios, validation, and learning modules. | [Open repository](https://github.com/Sahithbasani/csharp-fundamentals) |
+| **Linux Engineering** | Linux operations, troubleshooting, security, and automation notes. | [Open repository](https://github.com/Sahithbasani/linux-engineering) |
+| **Portfolio Website** | Source repository for the public engineering portfolio. | [Open repository](https://github.com/Sahithbasani/portfolio-website) |
 
 </details>
 
-<details open>
-<summary><strong>.NET Vault</strong> - backend engineering knowledge base</summary>
+## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1000&color=93C5FD&repeat=false&width=260&lines=Technical+Writing" alt="Technical Writing" />
 
-**Purpose:** A practical reference for professional .NET backend engineering.
+<table>
+  <tr>
+    <td width="35%"><strong>Published focus</strong></td>
+    <td>.NET modernization, backend engineering, source-control migration, architecture, and software-delivery practices.</td>
+  </tr>
+  <tr>
+    <td><strong>Featured article</strong></td>
+    <td><strong>Migrating Legacy .NET Applications from TFVC to GitHub</strong></td>
+  </tr>
+  <tr>
+    <td><strong>Writing home</strong></td>
+    <td><a href="https://medium.com/@sahithbasani1">Medium: @sahithbasani1</a></td>
+  </tr>
+</table>
 
-**Problem solved:** Consolidates backend engineering knowledge across ASP.NET Core, SQL Server, Azure, architecture, testing, Git, and interview preparation.
+## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1000&color=60A5FA&repeat=false&width=300&lines=Engineering+Direction" alt="Engineering Direction" />
 
-**Architecture and technology:** Markdown knowledge base focused on .NET backend topics and enterprise software practices.
+<table>
+  <tr>
+    <td><strong>Open Source</strong></td>
+    <td>Focused .NET ecosystem contributions with small review surface and clear validation.</td>
+  </tr>
+  <tr>
+    <td><strong>System Design</strong></td>
+    <td>Backend architecture notes covering API boundaries, data flows, and failure modes.</td>
+  </tr>
+  <tr>
+    <td><strong>Azure Architecture</strong></td>
+    <td>Azure-ready services, deployment notes, cloud design tradeoffs, and operational readiness.</td>
+  </tr>
+  <tr>
+    <td><strong>.NET Performance</strong></td>
+    <td>Runtime behavior, allocation awareness, async patterns, and diagnostics.</td>
+  </tr>
+</table>
 
-**Engineering highlights:**
-
-- Focused on production-grade backend decision-making.
-- Aligns with Microsoft-stack engineering: .NET, ASP.NET Core, SQL Server, Azure, REST APIs, and clean architecture.
-- Useful as a reusable public reference for learning, review, and interview preparation.
-
-**Repository:** [Sahithbasani/dotnet-vault](https://github.com/Sahithbasani/dotnet-vault)
-
-</details>
-
-<details>
-<summary><strong>Linux Engineering</strong> - operations, troubleshooting, security, and automation</summary>
-
-**Purpose:** A practical Linux operations guide.
-
-**Problem solved:** Organizes Linux troubleshooting, security, networking, process management, storage, monitoring, and automation notes into a reusable reference.
-
-**Architecture and technology:** Markdown-based systems engineering guide focused on operational readiness.
-
-**Engineering highlights:**
-
-- Complements backend development with operating-system literacy.
-- Useful for production support, troubleshooting, and deployment environments.
-- Current pinned repository on the public profile.
-
-**Repository:** [Sahithbasani/linux-engineering](https://github.com/Sahithbasani/linux-engineering)
-
-</details>
-
-<details>
-<summary><strong>Portfolio Website</strong> - public engineering portfolio source</summary>
-
-**Purpose:** Source repository for a personal engineering portfolio.
-
-**Problem solved:** Provides a place to turn GitHub projects, writing, and open-source work into a dedicated professional portfolio.
-
-**Architecture and technology:** Public repository with C# listed on the profile page.
-
-**Engineering highlights:**
-
-- Good candidate for publishing case studies, project writeups, and open-source contribution summaries.
-- Should be improved with a clear README, live URL, architecture notes, and project screenshots when available.
-
-**Repository:** [Sahithbasani/portfolio-website](https://github.com/Sahithbasani/portfolio-website)
-
-</details>
-
----
-
-## Technical Writing
-
-I publish practical writing about backend engineering, .NET modernization, architecture, and software delivery.
-
-| Topic | Public writing |
-| --- | --- |
-| .NET modernization | **Migrating Legacy .NET Applications from TFVC to GitHub** |
-| Backend engineering | Articles and notes on Microsoft-stack engineering practices |
-| Source control and delivery | GitHub migration, repository workflows, and engineering quality |
-
-Read more on [Medium](https://medium.com/@sahithbasani1).
-
-> DEV profile link was not visible in the public GitHub profile data I inspected. Add it here only after confirming the correct DEV URL.
-
----
-
-## Professional Experience
-
-Public profile information lists current company as **Confidential**, so this section avoids employer-specific claims.
-
-- Senior Software Engineer focused on C#, .NET, ASP.NET Core, SQL Server, Azure, and enterprise backend systems.
-- Designs backend services with maintainability, API clarity, data-access reliability, and operational readiness in mind.
-- Builds documentation and examples that make engineering decisions easier to review, reuse, and teach.
-- Maintains a public portfolio that demonstrates backend architecture, .NET fundamentals, open-source participation, and technical writing.
-
----
-
-## Engineering Roadmap
-
-| Focus Area | Current Direction |
-| --- | --- |
-| **Open Source** | Continue focused .NET ecosystem contributions with small, reviewable PRs and clear validation. |
-| **System Design** | Publish backend architecture notes with API boundaries, data flows, and failure modes. |
-| **Distributed Systems** | Build examples around service boundaries, messaging, resiliency, and observability. |
-| **Azure Architecture** | Add Azure-ready sample services, deployment notes, and cloud design tradeoffs. |
-| **.NET Performance** | Expand examples around allocation behavior, async patterns, and runtime diagnostics. |
-| **Developer Tooling** | Improve CI, validation commands, repository templates, and documentation quality gates. |
-
----
-
-## Community Impact
-
-My public engineering work is oriented around durable community value:
-
-- Open-source contributions to .NET ecosystem repositories.
-- Reusable C# and .NET educational material.
-- Backend engineering documentation grounded in production concerns.
-- Public technical writing around modernization and software delivery.
-- Repository quality practices: validation commands, CI, documentation structure, and review-ready PR descriptions.
-
----
-
-## GitHub Analytics
+## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1000&color=38BDF8&repeat=false&width=260&lines=GitHub+Analytics" alt="GitHub Analytics" />
 
 <div align="center">
-
-[![Analytics Header](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&pause=1200&color=93C5FD&center=true&vCenter=true&width=850&lines=Public+engineering+activity;Repository+quality+and+validation;Open-source+growth+over+time)](https://git.io/typing-svg)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahithbasani&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sahithbasani&theme=tokyonight&hide_border=true)
 
@@ -243,92 +204,19 @@ My public engineering work is oriented around durable community value:
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahithbasani&theme=tokyo-night&hide_border=true)
 
-![Animated Activity Divider](https://capsule-render.vercel.app/api?type=soft&height=90&color=0:0F172A,40:312E81,100:0284C7&text=Open%20Source%20%7C%20Backend%20Engineering%20%7C%20Technical%20Writing&fontColor=FFFFFF&fontSize=20&animation=twinkling)
-
-<!--
-Snake animation requires a GitHub Action that generates the SVG into an output branch.
-After enabling it, uncomment the line below:
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Sahithbasani/Sahithbasani/output/github-contribution-grid-snake-dark.svg)
--->
+![Analytics Divider](https://capsule-render.vercel.app/api?type=soft&height=95&color=0:020617,45:1E40AF,100:312E81&text=Open%20Source%20%7C%20Backend%20Engineering%20%7C%20Technical%20Writing&fontColor=FFFFFF&fontSize=20&animation=twinkling)
 
 </div>
 
----
-
-## Connect
-
-- **LinkedIn:** [linkedin.com/in/sahithbasani](https://www.linkedin.com/in/sahithbasani)
-- **GitHub:** [github.com/Sahithbasani](https://github.com/Sahithbasani)
-- **Medium:** [medium.com/@sahithbasani1](https://medium.com/@sahithbasani1)
-- **Portfolio source:** [Sahithbasani/portfolio-website](https://github.com/Sahithbasani/portfolio-website)
-- **Email:** sahithbasani1@gmail.com
-
----
+## <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=1&pause=1000&color=A5B4FC&repeat=false&width=180&lines=Connect" alt="Connect" />
 
 <div align="center">
 
-**Reliable software is built through clear boundaries, observable behavior, and engineering decisions that can survive production.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sahithbasani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahithbasani)
+[![Medium](https://img.shields.io/badge/Medium-@sahithbasani1-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sahithbasani1)
+[![GitHub](https://img.shields.io/badge/GitHub-Sahithbasani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahithbasani)
+[![Email](https://img.shields.io/badge/Email-sahithbasani1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahithbasani1@gmail.com)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0EA5E9,45:2563EB,100:312E81)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:38BDF8,35:2563EB,70:312E81,100:020617&animation=twinkling)
 
 </div>
-
----
-
-# Accepted Portfolio Improvement Plan
-
-These are the profile and repository improvements to apply next. They are based on the public profile data inspected on 2026-07-11 and are intended to strengthen the profile around senior .NET backend engineering, open-source credibility, and long-term portfolio quality.
-
-## Pinned Repositories
-
-Current pinned repositories found:
-
-- `csharp-fundamentals`
-- `dotnet-vault`
-- `linux-engineering`
-- `portfolio-website`
-- `Sahithbasani`
-
-Recommended pinned order to apply on GitHub:
-
-1. `dotnet-vault` - strongest match for Senior .NET Backend Engineer positioning.
-2. `csharp-fundamentals` - strong education/reference repository with C# depth.
-3. `Datasync` fork or a future contribution-tracking repo - shows active open-source contribution path.
-4. `portfolio-website` - useful only after adding a clear README and live portfolio URL.
-5. `linux-engineering` - keep if you want to show production operations depth.
-6. Replace the profile README repo pin with a stronger engineering project once available.
-
-## Repository Description Improvements
-
-- [ ] Add a description to `portfolio-website`; it is currently blank on the pinned profile card.
-  - Suggested description: `Personal engineering portfolio for .NET backend projects, open-source contributions, technical writing, and production-grade architecture notes.`
-- [ ] Add repository topics to major public repositories.
-  - Suggested topics: `csharp`, `dotnet`, `aspnet-core`, `sql-server`, `azure`, `clean-architecture`, `backend-engineering`, `rest-api`, `github-actions`.
-- [ ] Add consistent README sections to each serious engineering repository.
-  - Suggested sections: purpose, architecture, technology stack, run/build instructions, validation, roadmap, contribution notes, and references.
-- [ ] Add status badges where validation exists.
-  - Start with build badges for `csharp-fundamentals` and `dotnet-vault` after GitHub Actions workflows are stable.
-
-## Missing Engineering Projects To Add Over Time
-
-- [ ] ASP.NET Core REST API reference implementation.
-  - Include authentication, authorization, validation, structured logging, exception handling, tests, Swagger/OpenAPI, and CI.
-- [ ] SQL Server performance lab.
-  - Include schema design, indexes, execution-plan notes, query tuning examples, and before/after performance explanations.
-- [ ] Azure-ready backend sample.
-  - Include deployment notes, configuration, secrets handling, observability, health checks, and cloud architecture tradeoffs.
-- [ ] Open-source contribution log.
-  - Summarize pull requests, issues, validation steps, maintainer feedback, and what was learned from each contribution.
-- [ ] Backend architecture case-study repository.
-  - Document a realistic service using diagrams, API contracts, data model, failure modes, testing strategy, and deployment considerations.
-
-## GitHub Features To Enable
-
-- [ ] GitHub Actions badges for `dotnet-vault` and `csharp-fundamentals`.
-- [ ] Snake contribution graph after adding the required GitHub Action to generate the SVG.
-- [ ] Repository topics on every public engineering repository.
-- [ ] GitHub Pages or another deployed portfolio URL for `portfolio-website`.
-- [ ] Branch protection and required checks for repositories that are intended to show engineering quality.
-- [ ] Pin repositories in the recommended order after descriptions and README files are polished.
-- [ ] Add a profile-level contribution log link once the open-source contribution log exists.
