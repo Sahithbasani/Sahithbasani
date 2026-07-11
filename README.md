@@ -15,6 +15,12 @@ Senior Software Engineer based in **Dallas, Texas, United States**.
 ![Followers](https://img.shields.io/github/followers/Sahithbasani?style=flat-square&color=2563EB&label=Followers)
 ![Public Repos](https://img.shields.io/badge/Public%20Repos-11-0F172A?style=flat-square)
 
+<br />
+
+[![Engineering Console](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=500&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=88&lines=%3E+designing+backend+systems+with+clear+boundaries;%3E+shipping+focused+open-source+pull+requests;%3E+documenting+production-grade+.NET+engineering;%3E+building+reusable+resources+for+the+Microsoft+stack)](https://git.io/typing-svg)
+
+![Divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:312E81,50:2563EB,100:0EA5E9)
+
 </div>
 
 ---
@@ -33,6 +39,12 @@ Current engineering themes:
 - Strengthening automated builds, CI checks, documentation quality, and validation workflows.
 - Contributing focused fixes and tests to open-source .NET ecosystem projects.
 
+<div align="center">
+
+[![Current Focus](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=900&color=A5B4FC&center=true&vCenter=true&width=850&lines=Clean+Architecture+%2B+REST+API+Design;SQL+Server+Performance+%2B+Data+Access;Azure-ready+Services+%2B+Operational+Readiness;Open-source+.NET+Ecosystem+Contributions)](https://git.io/typing-svg)
+
+</div>
+
 ---
 
 ## Engineering Expertise
@@ -47,6 +59,12 @@ Current engineering themes:
 | **DevOps** | Git, GitHub, GitHub Actions, Azure DevOps, CI/CD, Docker |
 | **Testing** | xUnit, build validation, smoke verification, regression-focused checks |
 | **Developer Tools** | Visual Studio, VS Code, .NET CLI, GitHub pull requests, Markdown documentation workflows |
+
+<div align="center">
+
+![Expertise Divider](https://capsule-render.vercel.app/api?type=venom&height=80&color=0:0B1026,50:312E81,100:2563EB&section=header&text=Engineering%20Depth&fontColor=E0F2FE&fontSize=22&animation=fadeIn)
+
+</div>
 
 ---
 
@@ -69,6 +87,12 @@ Contribution patterns visible across my public work:
 - Documentation systems for engineering learning.
 - CI and repository quality improvements.
 - Backend examples grounded in practical software design.
+
+<div align="center">
+
+[![Open Source Motion](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=17&pause=1000&color=60A5FA&center=true&vCenter=true&width=850&lines=Small+surface+area.+Clear+validation.+Maintainer-friendly+PRs.;Modernization%2C+testing%2C+documentation%2C+and+backend+quality.;CommunityToolkit%2FDatasync+PR+%23528+merged.;dotnet%2Fruntime+PR+%23130369+open.)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -207,6 +231,8 @@ My public engineering work is oriented around durable community value:
 
 <div align="center">
 
+[![Analytics Header](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&pause=1200&color=93C5FD&center=true&vCenter=true&width=850&lines=Public+engineering+activity;Repository+quality+and+validation;Open-source+growth+over+time)](https://git.io/typing-svg)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahithbasani&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sahithbasani&theme=tokyonight&hide_border=true)
@@ -216,6 +242,8 @@ My public engineering work is oriented around durable community value:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sahithbasani&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahithbasani&theme=tokyo-night&hide_border=true)
+
+![Animated Activity Divider](https://capsule-render.vercel.app/api?type=soft&height=90&color=0:0F172A,40:312E81,100:0284C7&text=Open%20Source%20%7C%20Backend%20Engineering%20%7C%20Technical%20Writing&fontColor=FFFFFF&fontSize=20&animation=twinkling)
 
 <!--
 Snake animation requires a GitHub Action that generates the SVG into an output branch.
