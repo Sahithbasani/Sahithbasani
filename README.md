@@ -69,6 +69,11 @@
     <td><a href="https://github.com/dotnet/runtime/pull/130369">Open PR #130369</a></td>
   </tr>
   <tr>
+    <td><strong>.NET runtime merged codeflow</strong></td>
+    <td>Source and dependency updates from dotnet/dotnet were integrated into the dotnet/runtime main branch.</td>
+    <td><a href="https://github.com/dotnet/runtime/pull/130329">Merged PR #130329</a></td>
+  </tr>
+  <tr>
     <td><strong>Reusable .NET knowledge</strong></td>
     <td>Maintains a backend engineering knowledge base covering ASP.NET Core, SQL Server, Azure, architecture, testing, Git, and interviews.</td>
     <td><a href="https://github.com/Sahithbasani/dotnet-vault">dotnet-vault</a></td>
@@ -143,6 +148,11 @@
     <td><a href="https://github.com/dotnet/runtime"><strong>dotnet/runtime</strong></a></td>
     <td>Proposed filesystem test reliability improvements for FAT32 temp-volume behavior.</td>
     <td><a href="https://github.com/dotnet/runtime/pull/130369">Open</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/dotnet/runtime"><strong>dotnet/runtime</strong></a></td>
+    <td>Source and dependency updates from dotnet/dotnet integrated into runtime through the project's automated codeflow.</td>
+    <td><a href="https://github.com/dotnet/runtime/pull/130329">Merged</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Sahithbasani/csharp-fundamentals"><strong>csharp-fundamentals</strong></a></td>
